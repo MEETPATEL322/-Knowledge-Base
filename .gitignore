@@ -1,0 +1,5 @@
+/question-portal/node_modules/
+/question-portal/.env
+
+/server/node_modules/
+/server/.env
